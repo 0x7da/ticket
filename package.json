@@ -1,0 +1,25 @@
+{
+  "name": "tickets",
+  "main": "main.js",
+  "author": "0x7da",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ox7da/Tickets.git"
+  },
+  "description": "Ein Einfaches Ticket fsystem für dein server",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Ox7da/Tickets/issues"
+  },
+  "homepage": "https://github.com/Ox7da/Tickets#readme",
+  "keywords": [
+    "tickets"
+  ],
+  "license": "ISC"
+}
